@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dan La Scala</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Dan La Scala</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 14 Oct 2024 19:31:50 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 14 Oct 2024 19:31:50 -0700</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;If you have any questions, feel free to reach out!&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;    Mail::send(&#39;emails.contact&#39;, $data, function($message) use ($data){&#xA;    $message-&amp;gt;from($data[&#39;email&#39;]);&#xA;    $message-&amp;gt;to(&#39;example@domain.com&#39;);&#xA;    $message-&amp;gt;subject($data[&#39;subject&#39;]);&#xA;});&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 13 Oct 2024 21:45:12 -0700</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/pkmnBros.jpg&#34; alt=&#34;Me and my Bros&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hi! I&amp;rsquo;m Dan. I&amp;rsquo;m a 21 year old student at Cal Poly Pomona on track to get a degree in Electronic Systems &amp;amp; Engineering Technology. Like many kids in my field, I grew up playing video games, which was my gateway into the world of computing. The PlayStation 2 was one of my first consoles, and I remember playing the same 6 or so games religiously, which meant I was always discovering nuances and tricks about the game engine. I don&amp;rsquo;t game as much as I used to, but the systematic mindset I developed playing games has found its way into many other parts of my life, particularly my career.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
