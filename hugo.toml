@@ -3,10 +3,13 @@ languageCode = 'en-us'
 title = 'Dan La Scala'
 theme  = 'hugo-coder'
 
+
+
 [params]
   author = "Dan La Scala"
   info = "System Administration and Technical Operations Specialist"
   avatarurl = "images/prof.png"
+  colorScheme = "dark"
 
 [[params.social]]
   name = "Github"
